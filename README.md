@@ -1,4 +1,4 @@
-# 📊 Data Science Salaries Dashboard (Assignment 2)
+# 📊 Data Science Salaries Dashboard
 
 This project presents an interactive dashboard created using Tableau, analyzing salary trends in data science roles based on job title, experience level, company location, and more.
 
