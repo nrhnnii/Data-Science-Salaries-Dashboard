@@ -4,7 +4,7 @@ This project presents an interactive dashboard created using Tableau, analyzing 
 
 ## 🖼️ Dashboard Preview
 
-![Dashboard Preview](./Dashboard.png)
+![Dashboard Preview](Assignment 2/Dashboard.png)
 
 ## 📊 Dashboard Insights
 
